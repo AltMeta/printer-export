@@ -1,1 +1,1 @@
-will add info later
+A Python script to export printers from printers.conf, exported printers are added into importprinters which creates a bulk lpadmin command for each printer.
